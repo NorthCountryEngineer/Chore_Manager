@@ -38,7 +38,7 @@ Here's a quick overview of the project's structure and what each folder/file doe
 
 ### Prerequisites
 
-Make sure you have Node.js and Yarn installed. If not, you can install them by following the instructions above.
+Make sure you have Node.js and NPM installed. If not, you can install them by following the instructions above.
 
 ### Installation
 
@@ -52,7 +52,7 @@ cd chore-manager-app
 2. Install dependencies:
 
 ```bash
-yarn install
+npm install
 ```
 
 ### Running the Development Server
@@ -60,7 +60,7 @@ yarn install
 To start the development server, run:
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 Open your browser and navigate to `http://localhost:3000` to see your application running.
